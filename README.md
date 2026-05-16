@@ -163,6 +163,15 @@ Saved files:
 
 ---
 
+# Dataset
+
+Dataset used: **Sentiment140 Dataset**
+
+- Source: Kaggle
+- Dataset URL: https://www.kaggle.com/datasets/kazanova/sentiment140
+- Size: 1.6 Million Tweets
+- File Size: ~238 MB
+
 # How to Run the Project
 
 ## Step 1: Open Google Colab
